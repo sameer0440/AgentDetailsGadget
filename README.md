@@ -2,7 +2,7 @@
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/sameyada/AgentDetailGadget)
 
 # Agent Details Gadget
-Post 12.0 release of UCCX and standalone Finesse there is missing functionality on Finesse where Agent Name and Extension are not visible in the top header as previous releases.
+Post 12.0 release of UCCX and standalone Finesse Agent Name and Extension are not visible in the top header as previous releases as they are moved under Identity Gadget which requires addition click to display Agent details
 
 
 
